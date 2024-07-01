@@ -31,7 +31,7 @@ const LoginScreen = () => {
         title="Press me"
         color="#f194ff"
         onPress={() => {
-          navigation.navigate('AppScreen');
+          navigation.navigate('HomeScreen');
         }}
       />
     </View>

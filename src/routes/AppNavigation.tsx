@@ -12,7 +12,7 @@ const screenOptions = {
   headerShown: false,
 };
 
-const isLoggedIn = false; // from redux in future
+const isLoggedIn = true; // from redux in future
 const initialLaunch = true; // from redux in future
 
 export const AppNavigation = () => {
